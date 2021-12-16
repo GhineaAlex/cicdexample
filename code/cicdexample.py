@@ -1,7 +1,7 @@
 from __future__ import print_function
 import random
 
-setone = ('air', 'fly', 'bus', 'test', 'pie', 'apple')
+setone = ('air', 'fly', 'bus', 'test', 'pie', 'apple', "phone")
 settwo = ('visual', 'studio', 'python')
 setthree = ('laptop', 'keyboard', 'lamp')
 
