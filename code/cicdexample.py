@@ -2,7 +2,7 @@ from __future__ import print_function
 import random
 
 setone = ('air', 'fly', 'bus', 'test', 'pie', 'apple', "phone")
-settwo = ('visual', 'studio', 'python')
+settwo = ('visual', 'studio', 'python', 'airbus')
 setthree = ('laptop', 'keyboard', 'lamp')
 
 def sample(l, n = 1):
